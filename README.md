@@ -1,5 +1,3 @@
-# Smart-Trash-Can-IoT
-IoT smart trash can with automatic lid control, environmental monitoring, and Blynk integration.
 # Smart Trash Can with Blynk Integration ♻️
 
 ## About the Project
